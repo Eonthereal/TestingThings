@@ -19,27 +19,7 @@ public class TestingThing {
         System.out.println("Angeliki's change!!!!!");
         System.out.println("Angeliki's second change!!!!!");
         
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
-        System.out.println("oleoleoleoleoelo");
+        System.out.println("Aris' souts deleted");
         
     }
     
