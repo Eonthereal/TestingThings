@@ -12,7 +12,9 @@ package newangeliki;
 public class AngClass {
     
     public void print(){
-        System.out.println("fgsdkjlhfkiwef");
+      
+       System.out.println("aris");
+  
     }
     
 }
