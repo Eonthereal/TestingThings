@@ -7,12 +7,14 @@ package newangeliki;
 
 /**
  *
-<<<<<<< HEAD
- * @author AngPan
+ * @author eon_A
  */
-public class TestingClass {
+public class ArisClass {
     
-    public void aris(){
-        System.out.println("Angeliki sout in Testing");
-    }
+    
+    
+    
+   public void aris(){
+       System.out.println("aris");
+   }
 }

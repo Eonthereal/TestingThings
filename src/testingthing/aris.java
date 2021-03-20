@@ -3,16 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package newangeliki;
+package testingthing;
 
 /**
  *
-<<<<<<< HEAD
- * @author AngPan
+ * @author eon_A
  */
-public class TestingClass {
+public class aris {
     
-    public void aris(){
-        System.out.println("Angeliki sout in Testing");
-    }
 }
